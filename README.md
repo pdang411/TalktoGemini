@@ -31,3 +31,13 @@ pip install openai pip install datetime pip install pyttsx3
 pip install SpeechRecognition pip install pyaudio pip install pygame pip install gtts pip install playsound pip isntall datetime pip install python-dotenv pip install numpy pip install pyautogen # this will have all the python repo packages.
 
 I have set up three files to talk to Gemini and you can add more Gemini function. This core voice engine  using GTTS and PYTTSX3 you can add more  voice experiment.
+
+Isntall python modules in you env.file
+Pip install google.generativeai
+Pip install speechrecognition
+Pip install pygame
+Pip install pyaudio
+Pip install gtts
+Pip install pyttsx3
+
+
