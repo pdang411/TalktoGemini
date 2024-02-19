@@ -4,7 +4,6 @@ import os
 import tempfile
 import pygame
 from gtts import gTTS
-import pyttsx3
 import speech_recognition as sr
 
 
