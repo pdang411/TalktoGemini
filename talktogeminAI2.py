@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 import os
 import tempfile
 import pygame
-import edge_tts
 import subprocess
 import speech_recognition as sr
 import pyttsx3
