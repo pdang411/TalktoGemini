@@ -80,7 +80,7 @@ if __name__ == "__main__":
         human_input = listen() # define human input equal audio source
         prompt=human_input #define prompt equals human input
         print(prompt)#print input
-        speak("You said: " + human_input)# voice playback input
+        speak("User said: " + human_input)# voice playback input
 
         # condition if human_input is not defined, then continue loop
         if not human_input:
