@@ -1,5 +1,8 @@
 # TalktoGemini
-Please get API-KEY from https://aistudio.google.com/app/apikey open an account and get an apikey. Free for limited time
+
+Please sign up for Google Developer account at https://aistudio.google.com use your gmail account.
+
+Please get API-KEY from https://aistudio.google.com/app/apikey open an account and get an apikey. "Free for limited time"
 
 please set up an .env file ins your code folder to place the api key
 
