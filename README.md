@@ -40,4 +40,10 @@ Pip install pyaudio
 Pip install gtts
 Pip install pyttsx3
 
+Update : I have added two new files requirements.txt and main.py.
+requirements.txt is for all python repo you will to install in venv to run application. run this file in venv: pip install -r requiremnets.txt
+main.py is Gradio chat window application html. format
+
+![Chat with Gemini](https://github.com/user-attachments/assets/98b3d08e-5c65-4475-bfeb-3681c51ecd32)
+
 
