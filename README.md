@@ -46,7 +46,7 @@ Pip install pyttsx3
 Update : I have added two new files requirements.txt and main.py.
 requirements.txt is for all python repo you will to install in venv to run application. run this file in venv: pip install -r requiremnets.txt
 main.py is Gradio chat window application html. format running "gemini-1.5-pro" model.
-I have my window desktop default to dark mode if you want to add dark mode to gradio please code below.
+I have my window desktop default to dark mode if you want to add dark mode to gradio please see code below.
 ****
 import gradio as gr
 
