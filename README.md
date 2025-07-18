@@ -31,7 +31,7 @@ cd my-project/ virtualenv venv
 source venv/bin/activate
 
 pip install openai pip install datetime pip install pyttsx3
-pip install SpeechRecognition pip install pyaudio pip install pygame pip install gtts pip install playsound pip isntall datetime pip install python-dotenv pip install numpy pip install pyautogen # this will have all the python repo packages.
+pip install SpeechRecognition pip install pyaudio pip install pygame pip install gtts pip install playsound pip isntall datetime pip install python-dotenv pip install numpy pip install ag2 # this will have all the python repo packages.
 
 I have set up three files to talk to Gemini and you can add more Gemini function. This core voice engine  using GTTS and PYTTSX3 you can add more  voice experiment.
 
