@@ -68,7 +68,7 @@ with gr.Blocks(js=js_func) as demo:
 
 ![Chat with Gemini](https://github.com/user-attachments/assets/98b3d08e-5c65-4475-bfeb-3681c51ecd32)
 
-9-25-2025 update ddef generate_response to stream and chunk text to make text output faster 
+9-25-2025 update def generate_response to stream and chunk text to make text output faster 
 def generate_response(prompt, state):
     # Use streaming for faster output
     # Ensure state is a list of messages
